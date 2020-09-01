@@ -35,7 +35,8 @@ export const Text = [
 
   `We will be soon reaching out to faculty in certain UM Departments who work within the public/ voluntary sector, to further our understanding of the space.`,
 
-  `Q. How did you implement the feedback you received from your prototype testing?`,`
+  `Q. How did you implement the feedback you received from your prototype testing?`,
+  `
     All throughout our project development, we were fortunate to receive helpful feedback from optiMize staff, nonprofits, and potential general public users such as fellow optiMizers, as well as our friends and relatives who helped spread our surveys. `,
   `Although the optiMize staff all possessed expertise in different fields, all were approachable and helpful as they guided us to discover what the “selling point” of Seek2Solve was, which helped us hone our platform features in a manner that rendered razor-sharp focus to this point, as well as differentiating us from other competitor apps. In addition, we were continually challenged to define the ”space” we are operating within, and define our target community. After we finally concluded this to be socially-aware individuals in our generation, we were able to further develop features that would appeal to younger people in our society, so that they would seek and, most importantly, be compelled to solve issues.`,
 
@@ -90,7 +91,8 @@ export const Text = [
 
   `We will all be working in Ann Arbor.`,
 
-  `Q. How is your team working to minimize the cost of your project?`,`
+  `Q. How is your team working to minimize the cost of your project?`,
+  `
     Our team has been proactive about asking people within and outside optiMize on ways to cut project development costs. We are minimizing costs through planning to use a single Udemy and Coursera account for online tutorials during our learning phase. We are also trying to use low-cost/ open-source options wherever we can in the development of the app. For example, we decided to use React Native, a front-end development framework that is significantly cheaper than platform-specific tools, with all the functionalities necessary to create the features a Seek2Solve user would want. The largest area where we are minimizing costs is that we will be learning app development by ourselves, and working on it together. The costs we have included for consultation will be only used during certain checkpoints in the development phase, specifically for feedback/ solutions.
     `,
 ];
