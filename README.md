@@ -1,3 +1,3 @@
 # Seek2Solve App
 
-arvinder.me/projects/seek2solve
+www.arvinder.me/projects/seek2solve
