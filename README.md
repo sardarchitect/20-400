@@ -1,3 +1,3 @@
-# Seek2Solve App
+# SEEK2SOLVE MOBILE APP LANDING PAGE
 
-www.arvinder.me/projects/seek2solve
+To read more about Seek2Solve, please visit www.arvinder.me. Thank you!
